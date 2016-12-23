@@ -1,28 +1,27 @@
 package DataHW3;
 
-public class DataStructure {
+public class DataStructure<T> {
 
-    private char stack[];
+    private T[] stack;
     private int top;
 
     DataStructure(int size) {
-        this.stack = new char[size];
+        this.stack = (T[]) new Object[size];
         this.top = -1;
     }
 
-    public void push(char character) {
+    public void push(T character) {
         if (top == this.stack.length - 1)
             System.out.println("Char stack is full");
         else
             this.stack[++top] = character;
     }
 
-    public char pop() {
+    public T pop() {
         if (top < 0)
             System.out.println("Char stack is empty");
         return this.stack[top--];
 
     }
-
 
 }

@@ -2,13 +2,13 @@ package DataHW3;
 
 public class ReverseChecker {
 
-    private DataStructure charStack;
+    private DataStructure<Character> charStack;
 
     public ReverseChecker control(String sentence) {
 
         sentence = modifySentence(sentence);
 
-        this.charStack = new DataStructure(sentence.length());
+        this.charStack = new DataStructure<Character>(sentence.length());
 
         storeCurrentSentence(sentence);
 

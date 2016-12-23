@@ -1,0 +1,2 @@
+Publishing a website or software documentation with GitHub Pages now requires far fewer steps. 
+Commit a Markdown file and have a website in minutes.
