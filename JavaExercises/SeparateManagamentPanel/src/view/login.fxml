@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" prefHeight="400.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8.0.40" fx:controller="LoginController" >
+    
+<center>
+     <VBox fx:id="form">  
+        <Label fx:id="title" textAlignment="CENTER" >Admin Log In</Label>
+        <Label visible="false" fx:id="message" ></Label>
+        <Label >Admin Email: </Label>
+        <TextField fx:id="adminEmail"></TextField>
+        <Label >Password: </Label>
+        <PasswordField fx:id="adminPassword"></PasswordField> 
+        <HBox fx:id="bottomHBox">
+        <Button onAction="#loginSystem" >Log In</Button>
+        </HBox>
+        
+     </VBox>
+</center>
+
+
+</BorderPane>

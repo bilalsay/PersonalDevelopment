@@ -1,0 +1,70 @@
+#AnchorPane {
+    -fx-background-color: #fff;
+    -fx-min-height: 600px;
+    -fx-max-height: 600px;
+    -fx-padding: 10px;
+    -fx-border-left:  #000;
+    
+}
+#vv {-fx-padding: 10px;}
+#buttons { 
+    -fx-padding: 10px
+}
+
+#buttons Button{   
+    -fx-padding:10px; -fx-border-insets: 15px;
+    -fx-background-insets: 5px;-fx-pref-width: 120px
+}
+
+#logout{   
+    
+}
+
+#bottomHBox {
+    -fx-padding: 20px; -fx-float: right; -fx-margin-right: 10px;
+    -fx-background-insets: 10px
+}
+
+#customerTable {
+    
+    -fx-min-width: 700px;
+        -fx-min-height: 100px
+}
+#form {
+-fx-background-color: #eee;
+-fx-padding: 10px;
+-fx-border-color: #ddd;
+-fx-border-insets: 5;
+-fx-border-width: 3;
+-fx-border-style: dashed;
+-fx-max-width: 300px
+    
+}
+
+#message_error {
+    -fx-padding: 20px;
+    -fx-background-color: #fdc7c4;
+    -fx-font-size: 20px;    
+}
+
+#message_success {
+    -fx-padding: 20px;
+    -fx-background-color: #d2fdc4;
+    -fx-font-size: 20px    
+}
+
+#form Label {
+    -fx-font-size: 20px
+}
+#form TextField {
+    -fx-min-width: 400px
+}
+
+#title {
+    -fx-background-color: #eee;
+    -fx-background-insets: 10px;
+    -fx-padding: 10px 20px;
+    -fx-float: left;
+    -fx-font: 30px bold;
+    
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1"  id="AnchorPane" prefHeight="200.0" fx:id="pn" prefWidth="600.0" fx:controller="CustomerController">
+    
+    <VBox fx:id="form">
+        
+        <Label fx:id="updateTitle" textAlignment="CENTER" ></Label>
+        <Label visible="false" fx:id="message" ></Label>  
+        <TextField fx:id="updatingId" visible="false" ></TextField>
+        <TextField fx:id="updatingRowId" visible="false" ></TextField>
+        <Label >Customer Name: </Label>
+        <TextField fx:id="customerName" ></TextField>
+        <Label >Customer Surname: </Label>
+        <TextField fx:id="customerSurname"></TextField>
+        <Label >Password: </Label>
+        <PasswordField fx:id="customerPassword"></PasswordField>
+        <Label >Customer Email </Label>
+        <TextField fx:id="customerEmail"></TextField>
+        <Label >Customer Phone </Label>
+        <TextField fx:id="customerPhone"></TextField>
+        <Label >Membership Mod </Label>
+        <ComboBox fx:id="memberShipModCombo" layoutX="15.0" layoutY="33.0" prefWidth="90.0" >
+      <items>
+        <FXCollections fx:factory="observableArrayList">
+          <String fx:value="Onaylı" />
+          <String fx:value="Onaysız" />
+        </FXCollections>
+      </items>
+    </ComboBox>
+    
+     <Label >Customer Mod </Label>
+        <ComboBox fx:id="customerModCombo" layoutX="15.0" layoutY="33.0" prefWidth="90.0" >
+      <items>
+        <FXCollections fx:factory="observableArrayList">
+          <String fx:value="Onaylı" />
+          <String fx:value="Onaysız" />
+        </FXCollections>
+      </items>
+    </ComboBox>
+        
+        <HBox fx:id="bottomHBox">
+        <Button onAction="#updateCustomer" >Update this Customer</Button>
+        </HBox>
+    </VBox>
+    
+</AnchorPane>
+
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" prefHeight="400.0" prefWidth="1000.0"  xmlns="http://javafx.com/javafx/8.0.40" fx:controller="RootController" >
+<left>
+    <VBox  prefWidth="200" fx:id="buttons">
+    <Button text="Announcment"/>
+    <Button text="Outparter"/>
+    <Button text="Customer" onAction="#showCustomer"  />
+    <Button text="Part" />
+    
+    </VBox>    
+</left>
+
+<center>
+       
+    
+</center>
+
+<bottom>
+    <VBox>
+        <Button text="Log Out" fx:id="logout"  onAction="#logout"/>
+    </VBox>
+</bottom>
+</BorderPane>

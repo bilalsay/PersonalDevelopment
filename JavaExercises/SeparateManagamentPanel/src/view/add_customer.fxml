@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" id="AnchorPane" prefHeight="400.0" fx:id="pn" prefWidth="600.0" fx:controller="CustomerController">
+    
+    <VBox fx:id="form">
+        <Label fx:id="title" textAlignment="CENTER" >Add New Customer</Label>  
+        <Label visible="false" fx:id="message" ></Label>
+        <Label >Customer Name: </Label>
+        <TextField fx:id="customerName" ></TextField>
+        <Label >Customer Surname: </Label>
+        <TextField fx:id="customerSurname"></TextField>
+        <Label >Password: </Label>
+        <PasswordField fx:id="customerPassword"></PasswordField>
+        <Label >Customer Email </Label>
+        <TextField fx:id="customerEmail"></TextField>
+        <Label >Customer Phone </Label>
+        <TextField fx:id="customerPhone"></TextField>
+        
+        <HBox fx:id="bottomHBox">
+        <Button onAction="#addCustomer" >Add</Button>
+        </HBox>
+    </VBox>
+    
+</AnchorPane>
+
+

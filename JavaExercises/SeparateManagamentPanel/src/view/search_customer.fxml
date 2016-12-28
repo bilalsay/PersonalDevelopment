@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="ff" xmlns:fx="http://javafx.com/fxml/1" id="AnchorPane" prefHeight="600.0" prefWidth="600.0" fx:controller="CustomerController">
+<HBox >
+<VBox  fx:id="vv"  > 
+     
+<Label fx:id="title" textAlignment="CENTER" >Search Customer</Label>  
+        
+<TableView  fx:id="customerTable" layoutX="-12.0" layoutY="49.0" prefHeight="298.0" prefWidth="175.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <columns>
+                      <TableColumn fx:id="customerId" prefWidth="75.0" text="" visible="true" />
+                      <TableColumn  fx:id="nameSurname" prefWidth="75.0" text="Name Surname" />
+                      <TableColumn fx:id="password" prefWidth="75.0" text="Password" />
+                      <TableColumn fx:id="email" prefWidth="75.0" text="Email" />
+                      <TableColumn fx:id="phone" prefWidth="75.0" text="Phone" />
+                      <TableColumn fx:id="memberShipCode" prefWidth="75.0" text="Membership Code" />
+                      <TableColumn fx:id="memberShipMod" prefWidth="75.0" text="Membership Mod" />
+                      <TableColumn fx:id="customerMod" prefWidth="75.0" text="customerMod" />
+                      
+                    </columns>                  
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
+                  </TableView>
+        
+   
+    
+    </VBox>
+    <VBox fx:id="form">
+        
+        <Label textAlignment="CENTER" >Search</Label>  
+        
+        <Label >Membership Mod </Label>
+        <ComboBox fx:id="memberShipModCombo" layoutX="15.0" layoutY="33.0" prefWidth="90.0" promptText="NULL" >
+      <items>
+        <FXCollections fx:factory="observableArrayList">
+          <String fx:value="NULL" />
+          <String fx:value="Onaylı" />
+          <String fx:value="Onaysız" />
+        </FXCollections>
+      </items>
+    </ComboBox>
+    
+     <Label >Customer Mod </Label>
+            <ComboBox fx:id="customerModCombo" layoutX="15.0" layoutY="33.0" prefWidth="90.0" promptText="NULL" >
+      <items>
+        <FXCollections fx:factory="observableArrayList">
+          <String fx:value="NULL" />  
+          <String fx:value="Onaylı" />
+          <String fx:value="Onaysız" />
+        </FXCollections>
+      </items>
+    </ComboBox>
+        
+        <HBox fx:id="bottomHBox">
+        <Button onAction="#searchCustomer" >Search</Button>
+        </HBox>
+    </VBox>
+</HBox>
+</AnchorPane>
