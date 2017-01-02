@@ -22,7 +22,7 @@ public class GenMethDemo {
             System.out.println("2 is in nums");
 
         if (isIn(7,nums))
-            System.out.println("7 is in nums");
+            System.out.println("7 is in numssss");
 
         System.out.println();
 
