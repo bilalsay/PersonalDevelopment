@@ -6,7 +6,7 @@ package observerpatern;
 public class Gozlemci {
 
     public static void main(String args[]) {
-        System.out.println("Fiil > ");
+        System.out.println("Fiilii > ");
         final Fail failNesnesi = new Fail();
         final Meful mefulNesnesi = new Meful();
 

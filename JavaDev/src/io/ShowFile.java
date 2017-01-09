@@ -19,7 +19,7 @@ public class ShowFile {
             return;
         }
         /* Bu try kullanımı, try-with-resource kullanımı
-        *   Açılan bir dosyayı otomatik olarak kapatmay yarar
+        *   Açılan bir dosyayı otomatik olarak kapatmaya yarar
         * */
         try (FileInputStream fileInputStream = new FileInputStream(args[0])){
             /*  Bu tanımlamada fileInputStream örtülü olarak final tanımlanmıştır, daha sonra farklı değerler atanamaz*/
