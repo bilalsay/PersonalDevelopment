@@ -9,6 +9,8 @@ import java.security.NoSuchAlgorithmException;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
+import java.util.zip.CRC32;
+
 
 /**
  * Created by bilalsay on 23/02/2017.
@@ -16,6 +18,14 @@ import java.util.stream.StreamSupport;
 public class Comperator {
 
     public static void main(String args[])  {
+        /*
+        byte[] b = new byte[]{'A', 'E', 'D'};
+        CRC32 c = new CRC32();
+        c.update(b);
+
+        System.out.println(c.getValue());
+        */
+
         String pathUri = args[0];
         try(DirectoryStream<Path> directoryStream = Files.newDirectoryStream(Paths.get(pathUri), "*.html")) {
 

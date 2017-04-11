@@ -1,10 +1,7 @@
 /**
  * Created by bilalsay on 18/02/2017.
  */
-public class Watch implements DisplayElement {
-
-    private Location soldierLocation;
-    private Location enemyGroupLocation;
+public class Watch extends DisplayElement {
 
     public void update(Location soldierLocation, Location enemyGroupLocation) {
         this.soldierLocation = soldierLocation;

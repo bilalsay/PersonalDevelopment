@@ -1,1 +1,0 @@
-Run demo.bat, wait for the console window to close and check the Output.txt in the ouput folder for ouput.

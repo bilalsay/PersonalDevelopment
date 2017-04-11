@@ -24,7 +24,7 @@ public class Operation {
         for (Soldier soldier: soldiers)
             soldier.addObserver(drone);
 
-        LocationData locationData = new LocationData();
+        CoordinateProvider locationData = new CoordinateProvider();
 
         for (Soldier soldier: soldiers) {
             locationData.addObserver(soldier.getDisplayElement());
