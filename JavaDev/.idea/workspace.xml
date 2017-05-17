@@ -2,376 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc19c203-129d-460e-a8eb-8687d6c1d641" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/bolum19/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/bolum19/BufferdInputStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/bolum19/ByteArrayInputStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/bolum19/ByteArrayInputStreamReset.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/bolum19/ByteArrayOutputStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/bolum19/DirList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/bolum19/DirListOnly.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/bolum19/FileInputStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/bolum19/FileOutputStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/bolum19/OnlyExt.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/bolum19/PushBackInputStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/bolum19/SequenceInputStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/singletonPatern/Singleton.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR Java for IntelliJ (Maven)/lib/Aspose.OCR Java for IntelliJ (Maven).jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR Java for IntelliJ (Maven)/lib/org.eclipse.jgit-3.4.1.201406201815-r.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/.idea/Aspose.OCR-for-Java-master.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/ocr-java-examples.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/AdvanceConfigurations/AddingUserDefinedRecognitionBlocks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/AdvanceConfigurations/ApplyingCorrectionFilters.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/AdvanceConfigurations/SettingOcrEnginetoAutomaticallyDetectTextBlocks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/AdvanceConfigurations/SettingOcrEnginetoAutomaticallyDetecttheReadingOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/AdvanceConfigurations/SettingOcrEnginetoRecognizeOnlyWhiteListedCharacters.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/AdvanceConfigurations/SettingtheOcrEnginetoAutomaticallyCorrecttheSpellings.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/AdvanceConfigurations/SettingtheOcrEnginetoExcludesavingpreprocessedimages.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/AdvanceConfigurations/SettingtheOcrEnginetoIgnoreNonTextualBlocks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/ExtractingTextfromPartofanImage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/GetTextPartHierarchyofRecognizedText.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/GettingNotificationforEachRecognizedWord.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/LoadImagefromURLtoPerformOCR.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/PerformOCROnImage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/PerformingOCRonMultipageTIFF.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/ReadingPartInformation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OcrFeatures/WorkingwithDifferentLanguages.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/DetectingtheImageResolution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/ExtractTextDatafromScannedOMRForm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/ExtractingBarcodeData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/ExtractingOMRData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/LoadOMRtemplatefromURL.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/MeteredLicesingInOMR.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/OMRElements.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/SettingElementLevelThreshold.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/SettingGlobalThreshold.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/SettingPageLevelThreshold.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/SettingtheResolutionforOMRImage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/SkewImageCorrectionAlgorithm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/SkewImageCorrectionUsingAlgorithm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/OmrFeatures/SpecifydifferentBarcodetypes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/PerformOCROnImage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/Utils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/java/com/aspose/WorkingWithOcr/PerformOCROnImage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/resources/OcrFeatures/new.tiff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/resources/OcrFeatures/sample1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/resources/OmrFeatures/font.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/resources/OmrFeatures/sample1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/resources/OmrFeatures/sample_1.amr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/resources/OmrFeatures/template.amr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/resources/WorkingWithOcr/Sampleocr.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Examples/src/main/resources/WorkingWithOcr/resource.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/.idea/copyright/Aspose_Pty_Ltd.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/.idea/dictionaries/Adeel_Ilyas.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/Aspose.OCR Java for IntelliJ (Maven).iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/META-INF/plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/lib/org.eclipse.jgit-3.4.1.201406201815-r.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/Bundle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/examples/AsposeExampleAction.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/examples/AsposeExampleCallback.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/examples/AsposeExampleDialog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/examples/AsposeExamplePanel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/examples/CustomMutableTreeNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/maven/apis/artifacts/Metadata.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/maven/apis/artifacts/ObjectFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/maven/apis/artifacts/maven-metada.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/maven/apis/artifacts/maven-metadata.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/utils/AsposeConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/utils/AsposeJavaAPI.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/utils/AsposeMavenProjectManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/utils/AsposeMavenUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/utils/AsposeOCRJavaAPI.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/utils/FormatExamples.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/utils/GitHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/utils/execution/CallBackHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/utils/execution/ModalTaskImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/utils/execution/RunnableHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/wizards/maven/AsposeIntroWizardStep.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/wizards/maven/AsposeMavenModuleBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/wizards/maven/AsposeMavenModuleBuilderHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/wizards/maven/AsposeMavenModuleWizardStep.form" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/wizards/maven/AsposeMavenModuleWizardStep.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/wizards/maven/CreateMavenProjectCallback.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/wizards/maven/DownloadExamplesCallback.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/com/aspose/wizards/maven/MavenId.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/icons/AsposeIcons.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/resources/aspose.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/resources/asposeMedium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/resources/asposeSmall.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/resources/long_bannerIntelliJ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/resources/maven/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)/src/resources/maven/untitled.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/ApplyCorrectionFilters.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/CorrectSpellings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/DetectReading.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/DetectTextBlocks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/ExtractTextFromPartOfImage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/GetTextPartHierarchyOfText.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/IgnoreNonTextualBlocks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/LoadImageFromUrl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/MultipageTiff.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/PerformingOCROnAnImage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/ReadPartInformationOfText.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/RecognizeWhiteListedCharacters.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOCR/WorkWithDifferentLanguages.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOMR/DetectImageResolution.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOMR/ExtractOmrDataFromImage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOMR/SetImageResolution.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/src/aspose/ocr/WorkingWithOMR/SetMarkThreshold.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/ApplyCorrectionFilters/ocr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/CorrectSpellings/ocr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/DetectReading/ocr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/DetectTextBlocks/ocr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/ExtractTextFromPartOfImage/ocr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/GetTextPartHierarchyOfText/ocr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/IgnoreNonTextualBlocks/ocr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/MultipageTiff/multipage.tiff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/PerformingOCROnAnImage/ocr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/ReadPartInformationOfText/ocr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/RecognizeWhiteListedCharacters/ocr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/WorkWithDifferentLanguages/SpanishLanguageResources.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOCR/WorkWithDifferentLanguages/spanish.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOMR/DetectImageResolution/sample_omr.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOMR/DetectImageResolution/template.amr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOMR/ExtractOmrDataFromImage/sample_omr.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOMR/ExtractOmrDataFromImage/template.amr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOMR/SetImageResolution/sample_omr.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOMR/SetMarkThreshold/sample_omr.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/data/WorkingWithOMR/SetMarkThreshold/template.amr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/tests/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/vendor/autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/vendor/composer/ClassLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/vendor/composer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/vendor/composer/autoload_real.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_PHP/vendor/composer/installed.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/asposeocrjava.gemspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/config/aspose.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/data/SpanishLanguageResources.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/data/multipage.tiff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/data/ocr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/data/sample_omr.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/data/spanish.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/data/template.amr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/applycorrectionfilters.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/correctspellings.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/detectreading.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/detecttextblocks.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/extracttextfrompartofimage.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/gettextparthierarchyoftext.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/ignorenontextualblocks.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/loadimagefromurl.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/multipagetiff.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/readpartinformationoftext.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/recognizetext.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/recognizewhitelistedcharacters.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OCR/workwithdifferentlanguages.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OMR/detectimageresolution.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OMR/extractomrdatafromimage.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OMR/setimageresolution.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/OMR/setmarkthreshold.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/asposeocr.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/ocr.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/omr.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/lib/asposeocrjava/version.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/samples/ocr.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/Plugins/Aspose_OCR_Java_for_Ruby/samples/omr.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/ocrtest.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/DetectingtheImageResolution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/ExtractTextDatafromScannedOMRForm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/ExtractingBarcodeData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/ExtractingOMRData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/LoadOMRtemplatefromURL.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/MeteredLicesingInOMR.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/OMRElements.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/SettingElementLevelThreshold.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/SettingGlobalThreshold.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/SettingPageLevelThreshold.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/SettingtheResolutionforOMRImage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/SkewImageCorrectionAlgorithm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/SkewImageCorrectionUsingAlgorithm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/OmrFeatures/SpecifydifferentBarcodetypes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/Aspose.OCR-for-Java-master/ocrtest/src/main/java/com/aspose/WorkingWithOcr/PerformOCROnImage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/Aspose_LicenseAgreement.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/allclasses-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/allclasses-noframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/ApplicationException.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/AsposeLicenseException.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/ILanguage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/IRecognizedText.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/IRecognizedTextPartInfo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/Language.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/LanguageContainer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/License.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/OCRConfig.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/OcrEngine.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/OcrException.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/class-use/ApplicationException.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/class-use/AsposeLicenseException.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/class-use/ILanguage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/class-use/IRecognizedText.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/class-use/IRecognizedTextPartInfo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/class-use/Language.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/class-use/LanguageContainer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/class-use/License.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/class-use/OCRConfig.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/class-use/OcrEngine.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/class-use/OcrException.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/drawing/DrFontFamily.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/drawing/class-use/DrFontFamily.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/drawing/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/drawing/package-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/drawing/package-tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/drawing/package-use.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/package-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/package-tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/package-use.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/pal/PalFontFamily.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/pal/class-use/PalFontFamily.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/pal/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/pal/package-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/pal/package-tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/com/aspose/ocr/core/publicapi/pal/package-use.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/constant-values.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/contentJavaDoc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/deprecated-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/index-all.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/overview-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/overview-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/overview-tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/package-list" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/resources/inherit.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/serialized-form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/doc/stylesheet.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/lib/aspose-ocr-1.0.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/resources/resources.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/resources/resources/Network_12netsFS_Arial_BigAlphabet_52x52_32pt_390-26_v1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/resources/resources/Network_12netsFS_Arial_Digits_52x52_32pt_150-10_v1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/resources/resources/Network_12netsFS_Arial_SmallAlphabet_52x52_32pt_390-26_v1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/resources/resources/Network_12netsFS_Arial_SpecSymbols_52x52_32pt_345-23_v1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/resources/resources/Network_12netsSF_Reg_Digits_52x52_32pt_150-10_v1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/resources/resources/arialAndTimesAndCourierRegular.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/resources/resources/data.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/resources/resources/englishStandarts.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/samples/JDK 6.0/console/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/samples/JDK 6.0/console/classes/ExtractOcrText.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/samples/JDK 6.0/console/demo.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/samples/JDK 6.0/console/lib/aspose-ocr-1.0.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/samples/JDK 6.0/console/lib/log4j-1.2.15.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/samples/JDK 6.0/console/samples/Sample.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/samples/JDK 6.0/console/src/ExtractOcrText.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/samples/JDK 6.0/web/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCR Documents/aspose-ocr-1.0.0-java/samples/JDK 6.0/web/src/ExtractOcrText.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/OCRTest.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/Output.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/Sample.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/aspose-ocr-1.0.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/out/production/OCRTest/ExtractOcrText.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/resources/resources.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OCRTest/src/ExtractOcrText.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationDemo/out/production/OperationDemo/LocationData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationDemo/src/LocationData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/.idea/dictionaries/bilalsay.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/OperationMonitoringApp.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/DisplayElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/Drone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/EnemyGroup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/Gun.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/Location.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/MaroonBeret.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/Observable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/Observer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/Operation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/OperationAssistant.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/Rovelver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/Sarsur.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/Soldier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/Tablet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/out/production/OperationMonitoringApp/Watch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/DisplayElement.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/Drone.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/EnemyGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/Gun.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/Location.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/MaroonBeret.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/Observable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/Observer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/Operation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/OperationAssistant.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/Rovelver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/Sarsur.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/Soldier.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/Tablet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OperationMonitoringApp/src/Watch.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CompareFileApp/src/Comperator.class" afterPath="$PROJECT_DIR$/../CompareFileApp/src/Comperator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDev/FirstClass.class" afterPath="$PROJECT_DIR$/out/production/JavaDev/FirstClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OperationDemo/out/production/OperationDemo/DisplayElement.class" afterPath="$PROJECT_DIR$/../OperationDemo/out/production/OperationDemo/DisplayElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OperationDemo/out/production/OperationDemo/Operation.class" afterPath="$PROJECT_DIR$/../OperationDemo/out/production/OperationDemo/Operation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OperationDemo/out/production/OperationDemo/Tablet.class" afterPath="$PROJECT_DIR$/../OperationDemo/out/production/OperationDemo/Tablet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OperationDemo/out/production/OperationDemo/Watch.class" afterPath="$PROJECT_DIR$/../OperationDemo/out/production/OperationDemo/Watch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/Cheese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/CheesePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/Dough.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/EgePizzaIngredientFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/FreshClam.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/Garlic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/KaradenizPizzaIngredientFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/KaradenizPizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/MarinaraSauce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/Mushroom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/Onion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/Pepperoni.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/Pizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/PizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/RedPepper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/ReggianoCheese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/Sauce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/SlicedPepperoni.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/ThinCrustDaugh.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaOrderingTest/Veggie.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.Stats.java.swp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/FirstClass.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../C_Examples/a.out" afterPath="$PROJECT_DIR$/../C_Examples/a.out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PhpExercises/YedekParcaWEBUygulamasi" afterPath="$PROJECT_DIR$/../PhpExercises/YedekParcaWEBUygulamasi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CompareFileApp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CompareFileApp/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CompareFileApp/src/Comperator.java" afterPath="$PROJECT_DIR$/../CompareFileApp/src/Comperator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DuckApp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../DuckApp/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../C_Examples/insertionSort.cpp" afterPath="$PROJECT_DIR$/../C_Examples/insertionSort.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FirstClass.java" afterPath="$PROJECT_DIR$/src/FirstClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OperationDemo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OperationDemo/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OperationDemo/src/DisplayElement.java" afterPath="$PROJECT_DIR$/../OperationDemo/src/DisplayElement.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OperationDemo/src/Operation.java" afterPath="$PROJECT_DIR$/../OperationDemo/src/Operation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OperationDemo/src/Tablet.java" afterPath="$PROJECT_DIR$/../OperationDemo/src/Tablet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OperationDemo/src/Watch.java" afterPath="$PROJECT_DIR$/../OperationDemo/src/Watch.java" />
     </list>
     <ignored path="JavaDev.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -400,14 +56,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FileOutputStreamDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/bolum19/FileOutputStreamDemo.java">
+      <file leaf-file-name="IO.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/io/IO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state relative-caret-position="104">
+              <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataStructure.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataHW3/DataStructure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -418,96 +82,6 @@
             <state relative-caret-position="360">
               <caret line="24" column="49" lean-forward="false" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShowFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/ShowFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IO.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/io/IO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="51" column="52" lean-forward="true" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ByteArrayInputStreamDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/bolum19/ByteArrayInputStreamDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ByteArrayInputStreamReset.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/bolum19/ByteArrayInputStreamReset.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ByteArrayOutputStreamDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/bolum19/ByteArrayOutputStreamDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BufferdInputStreamDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/bolum19/BufferdInputStreamDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PushBackInputStreamDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/bolum19/PushBackInputStreamDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SequenceInputStreamDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/bolum19/SequenceInputStreamDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -547,23 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/jen/WildCardDemo.java" />
-        <option value="$PROJECT_DIR$/src/jen/Stats.java" />
-        <option value="$PROJECT_DIR$/src/jen/Coords.java" />
-        <option value="$PROJECT_DIR$/src/jen/BoundedWildCard.java" />
-        <option value="$PROJECT_DIR$/src/jen/GenMethdEMO.java" />
-        <option value="$PROJECT_DIR$/src/jen/GenIFDemo.java" />
-        <option value="$PROJECT_DIR$/src/jen/Talebe.java" />
-        <option value="$PROJECT_DIR$/src/jen/ortaOkulTalebesi.java" />
-        <option value="$PROJECT_DIR$/src/jen/talebe/ortaOkulTalebesi.java" />
-        <option value="$PROJECT_DIR$/src/jen/talebe/HayatBilgisi.java" />
-        <option value="$PROJECT_DIR$/src/jen/talebe/Kainat.java" />
-        <option value="$PROJECT_DIR$/src/jen/talebe/Fen.java" />
-        <option value="$PROJECT_DIR$/src/jen/talebe/Iman.java" />
-        <option value="$PROJECT_DIR$/src/jen/talebe/TalebeninMahiyeti.java" />
-        <option value="$PROJECT_DIR$/src/jen/talebe/Talebe.java" />
-        <option value="$PROJECT_DIR$/src/jen/talebe/LiseTalebesi.java" />
-        <option value="$PROJECT_DIR$/src/jen/talebe/Ilim.java" />
         <option value="$PROJECT_DIR$/src/jen/talebe/UniversiteTalebesi.java" />
         <option value="$PROJECT_DIR$/src/jen/talebe/OrtaOkulTalebesi.java" />
         <option value="$PROJECT_DIR$/src/jen/talebe/IlkokulTalebesi.java" />
@@ -598,6 +155,23 @@
         <option value="$PROJECT_DIR$/src/io/bolum19/BufferdInputStreamDemo.java" />
         <option value="$PROJECT_DIR$/src/io/bolum19/PushBackInputStreamDemo.java" />
         <option value="$PROJECT_DIR$/src/io/bolum19/SequenceInputStreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/PizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/CheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/KaradenizPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/EgePizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/KaradenizPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/MarinaraSauce.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/ReggianoCheese.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/SlicedPepperoni.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/FreshClam.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/ThinCrustDaugh.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/Garlic.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/Onion.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/RedPepper.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/Mushroom.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingTest/EgePizzaIngredientFactory.java" />
       </list>
     </option>
   </component>
@@ -644,9 +218,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -693,6 +265,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1292,6 +866,13 @@
       <workItem from="1490961532143" duration="1000" />
       <workItem from="1490961540306" duration="76000" />
       <workItem from="1490963604359" duration="3192000" />
+      <workItem from="1492418823264" duration="2482000" />
+      <workItem from="1492591470921" duration="23000" />
+      <workItem from="1492849487128" duration="6000" />
+      <workItem from="1492948810866" duration="680000" />
+      <workItem from="1493093474340" duration="33000" />
+      <workItem from="1493184853255" duration="610000" />
+      <workItem from="1493313936036" duration="569000" />
     </task>
     <task id="LOCAL-00001" summary="ce">
       <created>1483368575552</created>
@@ -1325,11 +906,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129420000" />
+    <option name="totallyTimeSpent" value="133823000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="803" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="803" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1345,7 +926,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819074" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3505007" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18383405" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1427,168 +1008,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jen/talebe/TalebeninMahiyeti.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jen/talebe/Fen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jen/talebe/UniversiteTalebesi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jen/talebe/IlkokulTalebesi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jen/talebe/Medrese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jen/talebe/LiseTalebesi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jen/talebe/Talebe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jen/talebe/OrtaOkulTalebesi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jen/talebe/Iman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jen/talebe/Ilim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="31" column="15" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/garygame/UnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="59" column="1" lean-forward="false" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/garygame/Weapon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/garygame/Unit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jen/Gen1.java" />
-    <entry file="file://$PROJECT_DIR$/src/jen/GenMethDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jen/Gen12Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="34" column="44" lean-forward="false" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jen/CikarsamaViolate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerpatern/Gozlemci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerpatern/Meful.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerpatern/Fail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lamda/Lamda_Expression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataHW3/ReverseChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="52" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threads/MultiThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threads/MultiThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/threads/ThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1686,7 +1105,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1694,7 +1112,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1702,9 +1119,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1712,7 +1126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1720,9 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1730,9 +1140,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1740,9 +1147,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1750,19 +1154,189 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/io/bolum19/SequenceInputStreamDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
+        <state relative-caret-position="795">
           <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/ShowFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/Sauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/Veggie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/Cheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/Pepperoni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/Clam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/Dough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/CheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/EgePizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/KaradenizPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/PizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/KaradenizPizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/MarinaraSauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/ReggianoCheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/SlicedPepperoni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/FreshClam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/ThinCrustDaugh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/Garlic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/Onion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/RedPepper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/Mushroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingTest/EgePizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataHW3/DataStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1774,18 +1348,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/ShowFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/io/IO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="51" column="52" lean-forward="true" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
+        <state relative-caret-position="104">
+          <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
           <folding />
         </state>
       </provider>

@@ -16,7 +16,7 @@ int main() {
 
 int * insertionSort(int list[], int point) {
 	
-	if (point > 0) {
+	if (point > 1) {
 		list = insertionSort(list, point - 1);	
 	
 		int temp;
